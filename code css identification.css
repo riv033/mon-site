@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(70, 181, 246);
+
+}
+
+
+header{
+    position: absolute;
+    left: 0;
+    top: 10px;
+    width: 100%;
+    background-color: rgb(5, 1, 236);
+    border-radius: 20px;
+}

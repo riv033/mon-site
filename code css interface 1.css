@@ -1,0 +1,15 @@
+p{
+    width: 1000px;
+}
+a{
+    width: 200px;
+}
+
+header{
+    position: fixed;
+    left: 0;
+    top: 10px;
+    width: 100%;
+    background-color: rgb(5, 1, 236);
+    border-radius: 20px;
+}

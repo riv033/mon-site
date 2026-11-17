@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(70, 181, 246);
+}
+img{
+    width: 200px;
+    margin: auto;
+}
+p{
+    width: 200px;
+}
+
+
+h1{
+    margin: 0; padding: 0;
+    line-height: 111px;
+    width: 800px;
+    margin: auto;
+    text-align: center;   font-size: 50px;
+    color:rgb(0, 0, 0);
+    text-decoration: underline;
+    text-align: center;
+}
